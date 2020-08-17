@@ -13,6 +13,7 @@
 - 🌱 I’m currently learning emmm...
 - 💬 Ask me about webrtc, uav
 - 📫 How to reach me: Go to Gensokyo
+- :heart: `_(ˊཀˋ」∠)_`
 
 ![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
 ![](https://img.shields.io/badge/-golang-29beb0?style=flat-square&logo=go&labelColor=b8fff8)
